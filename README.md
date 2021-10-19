@@ -1,15 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiho's%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiho's%20Git&fontSize=90)
+
+
 
 
 <a href="https://honorable-ridge-41c.notion.site/Back-End-f155cd4a6de74495be44d3448231956e">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
-<div align="center">
+
   👋 Hi, I’m Back-End Developer
   
   
   I’m enjoy 🏊 Swim, 🎳 Bowling, 💻 Programming, 🖥 Game
   
   
-
+  
 
 # 🦾 Skills 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -33,4 +35,4 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihogitgit&show_icons=true&theme=great-gatsby)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihogitgit&show_icons=true&theme=great-gatsby)
